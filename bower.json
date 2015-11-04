@@ -1,0 +1,26 @@
+{
+  "name": "front_template",
+  "description": "",
+  "main": "app.js",
+  "moduleType": [],
+  "keywords": [
+    "template"
+  ],
+  "authors": [
+    "lanjuere"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+	"jasmine":"latest",
+	"angular" : "latest"
+  }
+}

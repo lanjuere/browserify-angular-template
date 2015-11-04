@@ -1,0 +1,1 @@
+var app=angular.module("app",[]);app.controller("test",["$scope",function(a){a.hello="Ca marche a merveille !!!!!"}]);
