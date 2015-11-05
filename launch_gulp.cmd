@@ -1,3 +1,3 @@
 
-cd D:\workspace_projet_web\gulp_serveur
-gulp  --path "D:\workspace_projet_web\template_front"
+cd D:\generic-gulp
+gulp  --path "D:\browserify-angular-template"
