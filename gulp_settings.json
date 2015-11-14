@@ -1,0 +1,15 @@
+{
+  "js": {
+    "lib": "/bower_components/**/*.min.js",
+    "src": "/app/app.js",
+    "dest": "/dist",
+    "name": "build",
+    "libName": "dependencies"
+  },
+  "css": {
+    "lib": "",
+    "src": "",
+    "dest": "",
+    "name": ""
+  }
+}
