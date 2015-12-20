@@ -1,7 +1,8 @@
-var Dummy = require('./js/beans/Dummy');
-require('./js/views/Views');
+var Dummy = require('./beans/Dummy');
+require('./views/Views');
 
-new Dummy().sayHello();
+var dummy = new Dummy();
+dummy.sayHello();
 
 var app = angular.module("app", ['Views']);
 

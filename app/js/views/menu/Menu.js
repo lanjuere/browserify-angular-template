@@ -5,6 +5,6 @@
 var menuDirective = require('./MenuDirective');
 
 var menu = angular.module('Menu', []);
-menu.directive('lanMenu', [menuDirective]);
+menu.directive('lanMenu', ['$log', menuDirective]);
 
 module.exports = menu;

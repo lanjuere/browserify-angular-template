@@ -1,0 +1,26 @@
+{
+  "name": "browserify-angular-template",
+  "version": "0.1.0",
+  "description": "web project template",
+  "keywords": [
+    "karma",
+    "jasmine"
+  ],
+  "author": "lanjuere",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "phantomjs": "^1.9.19"
+  },
+  "devDependencies": {
+    "browserify-shim": "latest",
+    "karma": "latest",
+    "karma-browserify": "latest",
+    "karma-chrome-launcher": "latest",
+    "karma-jasmine": "latest",
+    "karma-phantomjs-launcher": "latest",
+    "karma-script-launcher": "latest",
+    "phantomjs": "latest",
+    "jasmine-core": "latest"
+  }
+}
